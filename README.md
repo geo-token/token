@@ -1,2 +1,2 @@
 # token
-Description and presentation of the GeoToken project token
+GeoToken ecosystem token as a reward for your attention
